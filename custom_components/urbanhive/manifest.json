@@ -2,9 +2,9 @@
   "domain": "urbanhive",
   "name": "Urbanhive Homefarm",
   "version": "2.0.0",
-  "documentation": "https://github.com/DEIN-USERNAME/urbanhive-homeassistant",
+  "documentation": "https://github.com/Fabsi2211/urbanhive-homeassistant",
   "requirements": [],
-  "codeowners": [],
+  "codeowners": "@Fabsi2211",
   "config_flow": true,
   "iot_class": "local_polling"
 }
