@@ -135,10 +135,7 @@ class UrbanhiveConfigFlow(
         # Formular anzeigen.
         schema = vol.Schema(
             {
-                vol.Required(
-                    CONF_IP_ADDRESS,
-                    default="192.168.178.196",
-                ): str,
+                vol.Required(CONF_IP_ADDRESS,): str,
             }
         )
 
