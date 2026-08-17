@@ -1,0 +1,17 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Urbanhive Homefarm",
+        "description": "Connect your Urbanhive Homefarm using its local REST API.",
+        "data": {
+          "ip": "IP address"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Could not connect to the Homefarm.",
+      "invalid_response": "The Homefarm returned an invalid response."
+    }
+  }
+}
